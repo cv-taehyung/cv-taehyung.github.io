@@ -25,3 +25,45 @@
         </dd>
     {% endfor %}
 </dl>
+
+<h3 class="section-title">Paper & Patent</h3>
+<dl class="paper">
+    {% for qualification in site.data.paper %}
+        <dt>
+            <p class="title">{{ qualification.qualification }} </p>
+            <p class="company">{{ qualification.school }} </p>
+            <p class="period">{{ qualification.period }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ qualification.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Project</h3>
+<dl class="others">
+    {% for qualification in site.data.others %}
+        <dt>
+            <p class="title">{{ qualification.qualification }} </p>
+            <p class="company">{{ qualification.school }} </p>
+            <p class="period">{{ qualification.period }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ qualification.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Other Project</h3>
+<dl class="others">
+    {% for qualification in site.data.op %}
+        <dt>
+            <p class="title">{{ qualification.qualification }} </p>
+            <p class="company">{{ qualification.school }} </p>
+            <p class="period">{{ qualification.period }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ qualification.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
