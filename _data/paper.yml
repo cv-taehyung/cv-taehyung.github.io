@@ -1,4 +1,5 @@
-qualification:
+- qualification: 　
+  period: 　
   school: >
     CNN의 점진적인 미세조정을 이용한 얼굴 표정 인식 (Thesis)<br><br>
     Facial Expression Recognition using Feature Additive Pooling and Progressive Fine-Tuning of CNN (SCI Journal, Electronics Letters)<br><br>
