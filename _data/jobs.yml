@@ -1,7 +1,31 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- title: Software Engineer / AI Researcher
+  company: LOTTE INNOVATE COMPANY
+  description: >
+    Intelligent CCTV System<br><br>
+    Korean License Plate Recognition<br><br>
+    Lotte Global Logistics Automatic System<br><br>
+    LotteOn Virtual Human “Lucy” Face Swap & Virtual Try-On<br><br>
+    Lotte Generative Model Development<br><br>
+    Super Resolution with Lotte Data
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- title: AI Researcher
+  company: Asan Medical Center (MI2RL)
+  description: >
+    Monocular Endoscopy Depth Estimation<br><br>
+    Endoscopy Depth Map Creation Using Style Transfer<br><br>
+    Development of AI-Based Technologies for Dental Surgery and Treatment Assist Robots,
+    Including Navigation Systems for High-Precision Implant Procedures<br><br>
+    Screw Segmentation Using Artificial Intelligence<br><br>
+    Metal Artifact Reduction
+
+- title: Software Engineer / AI Researcher
+  company: DEEP IN SIGHT
+  description: >
+    DMS (Driver Monitoring System)<br><br>
+    AI-Based Concrete Facilities Software Development<br><br>
+    Hairstyle Recommendation Magic Mirror Software Development<br><br>
+    Semantic Segmentation of the Eye for Gaze Tracking<br><br>
+    Image Quality Enhancement for Blood-Dyed Lens Images Using Deep Learning<br><br>
+    Development of Cable Distance Measurement Algorithms Using Artificial Neural Networks
+    and 3D Cameras<br><br>
+    X-ray Image Enhancement
